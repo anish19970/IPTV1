@@ -4,8 +4,6 @@ https://iptv--iptv.repl.co/Arabic/Sunnah_TV
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Religious",Al Quran Al Kareem TV (Mecca) (720p)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GeoNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="" group-title="News",Geo News (576p)
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="" group-title="News",Dunya News (360p) [Not 24/7]
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 #EXTINF:-1 tvg-id="ExpressNewsPakistan.pk" tvg-country="PK" tvg-language="" tvg-logo="" group-title="News",Express News Pakistan (720p) [Not 24/7]
@@ -21,7 +19,7 @@ http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5RvV_LtR1dxPCVFGw6dxXA/live
 #EXTINF:0,https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w1897152655.m3u8
-#EXTINF:0,https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
+#EXTINF:0,https://GEO News/i/n18urdu_1@373059/index_5_av-p.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/chunks_dvr.m3u8
 #EXTINF:0,https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream2/chunks.m3u8
 
